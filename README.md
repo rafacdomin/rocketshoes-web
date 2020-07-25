@@ -24,7 +24,7 @@ This project was developed with the following technologies:
 
 
 ## How To Use
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/) or higher + [Yarn v1](https://classic.yarnpkg.com/) or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js](https://nodejs.org/) + [Yarn v1](https://classic.yarnpkg.com/) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
