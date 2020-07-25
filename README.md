@@ -28,10 +28,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/rafacdomin/RocketShoes
+$ git clone https://github.com/rafacdomin/rocketshoes-web
 
 # Go into the repository
-$ cd RocketShoes
+$ cd rocketshoes-web
 
 # Install dependencies
 $ yarn install
