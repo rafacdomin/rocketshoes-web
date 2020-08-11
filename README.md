@@ -6,7 +6,7 @@ ReactJS e-commerce project developed on [RocketSeat GoStack Bootcamp](https://ro
 
 ## About
 
-This project is a simple e-commerce where you can choose products and add they to the cart, changing the amount and seeing the subtotal and total price of the actual order.
+E-commerce project developed at Rocketseat GoStack Bootcamp, where you can choose the products and add them to the cart, changing the quantity, viewing the subtotal and the total price of the actual order.
 
 ### Technologies
 
@@ -43,11 +43,14 @@ $ yarn install
 $ yarn start
 ```
 
+
 ## Author
 
 <img  border-radius="50px" src="https://avatars3.githubusercontent.com/u/40310160?s=460&u=d2babe9b7f1c365955699550074910a1957525c8&v=4" width="100px" alt="Author"/>
 
-Made with :heart: by Rafael Domingues :wave: [Get in touch!](https://www.linkedin.com/in/rafaelcodomingues/)
+Made with :purple_heart: by Rafael Domingues :wave: [Get in touch!](https://www.linkedin.com/in/rafaelcodomingues/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael_Domingues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelcodomingues/)](https://www.linkedin.com/in/rafaelcodomingues/)
 [![Gmail Badge](https://img.shields.io/badge/-rafaelcodomingues@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelcodomingues@gmail.com)](mailto:rafaelcodomingues@gmail.com)
+[![DEV.to Badge](https://img.shields.io/badge/DEV.to-rafacdomin-black)](https://dev.to/rafacdomin)
+[![GitHub followers](https://img.shields.io/github/followers/rafacdomin?label=Follow&style=social)](https://github.com/rafacdomin/?tab=follow)
